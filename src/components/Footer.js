@@ -29,7 +29,7 @@ export default function Footer() {
           <br />
 
           <ul className="text-slate-700 flex flex-col items-center justify-start gap-4 md:flex-row">
-            <li>&copy; 1999 - 2023</li>
+            <li>&copy; 1999 - 2024</li>
             <li>Accessibility</li>
             <li>Privacy</li>
             <li>Legal</li>
@@ -37,11 +37,9 @@ export default function Footer() {
         </div>
 
         <p className="text-slate-600 text-sm my-6">
-          PayPal Pte. Ltd. (“3PL”) has applied for a license under the Singapore
-          Payment Services Act (“PS Act”) with the Monetary Authority of
-          Singapore. During this statutory transitional period, 3PL is operating
-          under an exemption from holding a license and is allowed to continue
-          to provide specific payment services.
+        PayPal Services in India are provided by PayPal Payments Private Limited (CIN U74990MH2009PTC194653). Users are advised to read the terms and conditions carefully.
+
+When you visit or interact with our sites, services, applications, tools or messaging, we or our authorised service providers may use cookies, web beacons, and other similar technologies for storing information to help provide you with a better, faster and safer experience and for advertising purposes. Learn mor
         </p>
       </footer>
     </>
